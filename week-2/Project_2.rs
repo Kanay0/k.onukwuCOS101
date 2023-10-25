@@ -13,6 +13,8 @@ fn main() {
     //sum
     let sum = (qtoshiba * atoshiba ) + (qmac * amac) + (qhp * ahp) + (qdell * adell) + (qacer * aacer);
     print!("The Sum is {}",  sum);
+    
+    //Average
     let average = sum / 5.0;
     println!("The Average is {}", average); 
 
