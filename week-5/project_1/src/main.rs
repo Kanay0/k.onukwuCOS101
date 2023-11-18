@@ -1,7 +1,7 @@
 // Rust Program To Derivive Roots For 
 
 
-use std::io
+use std::io;
 
 fn main() {
     println!("Enter value of a");
@@ -23,11 +23,13 @@ fn main() {
 
     // Calculate the discriminant 
     let d:f32 = b.powf(2.0) - 4.0 * a * c;
+    discriminant = d ;
 
-    if dicriminant > 0.0 {
+
+    if discriminant > 0.0 {
         // Two distinct real roots 
-        let root1 = (-b + d.sqrt(2.0)) / (2.0 * a);
-        let root2 = (-b - d.sqrt(2.0)) / (2.0 * a);
+        let root1 = (-b + d.sqrt(2.0) / (2.0 * a));
+        let root2 = (-b - d.sqrt(2.0) / (2.0 * a));
         println!("When The dicriminant is greater than: Root1 = {}, Root2 = {}",root1,root2);
     
     } else if discriminant == 0.0 {
@@ -38,6 +40,6 @@ fn main() {
     } else {
         // Imaginary / No real roots 
         println!("No real roots (discriminant is negative).");
-    }
+    }discriminant
 
 }
