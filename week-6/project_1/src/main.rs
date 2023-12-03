@@ -1,4 +1,4 @@
-// Rust Program To Determine The Eligibilty To Vote For The Representatives Of The Student Council
+ // Rust Program To Determine The Eligibilty To Vote For The Representatives Of The Student Council
 use std::io;
 
 fn main() {
