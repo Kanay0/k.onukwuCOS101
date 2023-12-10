@@ -31,5 +31,7 @@ fn main() {
     let mut info5 = String::new();
     println!("\nEnter The Years Of Experience: ");
     std::io::stdin().read_line(&mut info5).expect("Invalid Input");
-    let year_of_experience:String = info5.trim().parse().expect("Invalid Input");
+    let year_of_experience:i64 = info5.trim().parse().expect("Invalid Input");
+
+
 }

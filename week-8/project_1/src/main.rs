@@ -123,7 +123,7 @@ fn main() {
             println!("Your Position As Leading Teacher is EL1 8-10 With 8-10 Years Of Experience");
            }
            if index5 == 4{
-            println!("Your Position As Deputy Principal is EL1 10-13 With 10-13 Years Of Experience");
+            println!("Your Position As Deputy Principal is EL2 10-13 With 10-13 Years Of Experience");
            }
            if index5 == 5{
             println!("Your Position As Principal is SES With Above 13 Years Of Experience ");

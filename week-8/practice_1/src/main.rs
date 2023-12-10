@@ -1,4 +1,4 @@
-fn main() {
+ fn main() {
   
    //Using Vec::new()
    let v : Vec<i64> = Vec::new();
