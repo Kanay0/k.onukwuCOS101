@@ -1,0 +1,1 @@
+C:\Users\Tobe¬Thex.ander\OneDrive\المستندات\Computer\ Science\ 101\k.onukwuCOS101\week-10\practice_7\target\debug\practice_7.exe: C:\Users\Tobe¬Thex.ander\OneDrive\المستندات\Computer\ Science\ 101\k.onukwuCOS101\week-10\practice_7\src\main.rs
