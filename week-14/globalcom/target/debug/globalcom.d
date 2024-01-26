@@ -1,0 +1,1 @@
+C:\Users\Tobe¬Thex.ander\OneDrive\المستندات\Computer\ Science\ 101\k.onukwuCOS101\week-14\globalcom\target\debug\globalcom.exe: C:\Users\Tobe¬Thex.ander\OneDrive\المستندات\Computer\ Science\ 101\k.onukwuCOS101\week-14\globalcom\src\main.rs
